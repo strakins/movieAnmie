@@ -1,0 +1,13 @@
+.App {
+    display: grid;
+    grid-template-rows: 80px auto;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.singleMovie {
+    height: 100vh;
+    background: #000;
+}
